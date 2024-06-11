@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    
+    <welcome-file-list>
+        <welcome-file>GDDangNhap246.jsp</welcome-file>
+    </welcome-file-list>
+    <multipart-config>
+        <max-file-size>20848820</max-file-size> <!-- Kích thước tối đa cho phép cho các tập tin được tải lên -->
+        <max-request-size>418018841</max-request-size> <!-- Kích thước tối đa cho phép cho yêu cầu đa phần/form-data -->
+        <file-size-threshold>1048576</file-size-threshold> <!-- Ngưỡng sau khi các tập tin sẽ được ghi vào ổ đĩa -->
+    </multipart-config>
+</web-app>

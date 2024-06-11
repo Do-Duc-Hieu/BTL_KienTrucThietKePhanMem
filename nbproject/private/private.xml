@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/rac/traffic/web/KhachHang246/GDChinhKhachHang246.jsp</file>
+            <file>file:/C:/rac/traffic/src/java/dao/BienBao246DAO.java</file>
+            <file>file:/C:/rac/traffic/src/java/model/BienBao246.java</file>
+            <file>file:/C:/rac/traffic/src/java/model/KhachHang246.java</file>
+            <file>file:/C:/rac/traffic/web/QuanLi246/GDChinhSuaBienBao246.jsp</file>
+            <file>file:/C:/rac/traffic/src/java/dao/DAO.java</file>
+            <file>file:/C:/rac/traffic/web/QuanLi246/GDThemBienBao246.jsp</file>
+            <file>file:/C:/rac/traffic/src/java/dao/LichSuNhanDang246DAO.java</file>
+            <file>file:/C:/rac/traffic/web/QuanLi246/GDTimKiemBienBao246.jsp</file>
+            <file>file:/C:/rac/traffic/src/java/model/TKKhachHang246.java</file>
+            <file>file:/C:/rac/traffic/src/java/model/MoHinh246.java</file>
+            <file>file:/C:/rac/traffic/web/QuanLi246/GDChinhQuanLi246.jsp</file>
+            <file>file:/C:/rac/traffic/src/java/schema/TaoDBTraffic.sql</file>
+            <file>file:/C:/rac/traffic/web/KhachHang246/GDHinhAnh246.jsp</file>
+            <file>file:/C:/rac/traffic/src/java/schema/TaoDuLieu.sql</file>
+            <file>file:/C:/rac/traffic/web/KiemTraDangNhap246.jsp</file>
+            <file>file:/C:/rac/traffic/web/QuanLi246/GDThongTinBienBao246.jsp</file>
+            <file>file:/C:/rac/traffic/src/java/dao/ThanhVien246DAO.java</file>
+            <file>file:/C:/rac/traffic/src/java/model/QuanLi246.java</file>
+            <file>file:/C:/rac/traffic/src/java/model/ThanhVien246.java</file>
+            <file>file:/C:/rac/traffic/web/QuanLi246/GDThongKeLuotNhanDang246.jsp</file>
+            <file>file:/C:/rac/traffic/web/GDDangNhap246.jsp</file>
+            <file>file:/C:/rac/traffic/web/QuanLi246/GDThongTinNhanDangChiTiet246.jsp</file>
+            <file>file:/C:/rac/traffic/src/java/model/LichSuNhanDang246.java</file>
+            <file>file:/C:/rac/traffic/src/java/dao/TKKhachHang246DAO.java</file>
+        </group>
+    </open-files>
+</project-private>
